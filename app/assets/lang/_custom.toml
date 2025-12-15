@@ -1,0 +1,23 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "OP Launcher"
+
+[ejs.landing]
+mediaHomeURL = "#"
+mediaLinkURL = "#"
+mediaMapURL = "$"
+mediaGitHubURL = "https://github.com/opplease3/OP-Launcher"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = ""
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/opplease3/OP-Launcher"
+supportLink = "https://github.com/opplease3/OP-Launcher/issues"
+
+[ejs.welcome]
+welcomeHeader = "OP Launcher"
+welcomeDescription = "이거에 대한 설명을 뭘적지?"
+welcomeDescCTA = ""
